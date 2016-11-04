@@ -1,0 +1,1 @@
+<img src="<?php echo PATH; ?>images/assets/250x250.gif" />
